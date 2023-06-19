@@ -6,4 +6,4 @@
 ## build and run
 1. `cd scheduler`
 2. `gcc -std=c99 main.c`
-3. `./a`
+3. `./a.out`
